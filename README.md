@@ -1,4 +1,7 @@
 # Getting Started with Create React App
+![Screenshot 2023-08-19 001221](https://github.com/AryanYadav1912/ExploreEase/assets/102041624/03c5caf9-7e1e-4fc9-a7ca-b2fe22cfba76)
+![Screenshot 2023-08-19 001310](https://github.com/AryanYadav1912/ExploreEase/assets/102041624/14291dfa-772a-4fe9-871b-3a15861aad02)
+![Screenshot 2023-08-19 001345](https://github.com/AryanYadav1912/ExploreEase/assets/102041624/e820e5e9-9264-4651-9d1b-37fac63fdd62)
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
